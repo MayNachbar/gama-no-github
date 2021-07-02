@@ -10,3 +10,4 @@ Foram criados 3 arquivos:
 * script.js
 * listaprodutos.html
 
+Estou achando o curso incrível, estou aprendendo muito!
